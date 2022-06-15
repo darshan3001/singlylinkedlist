@@ -1,3 +1,5 @@
+#this is a singly linked list that performs insert and delete the element at begining,end,specific position
+
 class node():
     def __init__(self,data):
         self.data = data
